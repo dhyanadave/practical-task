@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218737471784",
+    "project_id": "react-native-practical-task",
+    "storage_bucket": "react-native-practical-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218737471784:android:2b9608d7b64aa14699e01d",
+        "android_client_info": {
+          "package_name": "com.reactnativepracticaltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218737471784-2ao95r9d3kmqqor4u8aevh98b39qs176.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativepracticaltask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "218737471784-sj6r0tq9622fvtbsbohtt41oo9jgumn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaql2JjAAB88nYe94l4rMr4iUCXF7ghS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218737471784-sj6r0tq9622fvtbsbohtt41oo9jgumn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
